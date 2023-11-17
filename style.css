@@ -1,0 +1,14 @@
+
+
+.title h1::after{
+    content: "";
+    height:2px;
+    width:100px;
+    background-color: rgb(240, 94, 94);
+    display: block;
+    margin:10px auto;
+}
+
+.carousel img{
+    height: 500px!important;
+}
